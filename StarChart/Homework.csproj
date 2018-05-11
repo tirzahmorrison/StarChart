@@ -251,6 +251,10 @@
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\app\app.js" />
     <Content Include="Scripts\app\controllers\home.controller.js" />
+    <Content Include="Scripts\app\controllers\signin.controller.js" />
+    <Content Include="Scripts\app\controllers\product.controller.js" />
+    <Content Include="Scripts\app\controllers\subscription.controller.js" />
+    <Content Include="Scripts\app\controllers\signup.controller.js" />
     <Content Include="Scripts\app\pages\dashboard.html" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
     <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
@@ -274,6 +278,10 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Scripts\app\pages\signin.html" />
+    <Content Include="Scripts\app\pages\product.html" />
+    <Content Include="Scripts\app\pages\subscription.html" />
+    <Content Include="Scripts\app\pages\signup.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\esm\popper-utils.js" />
